@@ -40,6 +40,10 @@ Arduino IDE Kütüphane Yöneticisi'nden kur (ESP32 çekirdeği kurulu olmalı):
    - `WORK_SEC` / `BREAK_SEC` — pomodoro süreleri
 4. Yükle (Upload)
 
+<img width="3072" height="4096" alt="IMG_20260919_195826" src="https://github.com/user-attachments/assets/c083c858-c71d-4436-84b3-e38dbf81499e" />
+
+<img width="3072" height="4096" alt="IMG_20260919_195838" src="https://github.com/user-attachments/assets/4a575e9e-ab1a-4a37-aa4c-8cc7b87e87d4" />
+
 ## İlk Açılış: WiFi Kurulumu
 
 ESP32 sadece 2.4 GHz ağlara bağlanır; 5 GHz ağlar görünmez. Kayıtlı ağ yoksa veya 15 saniyede bağlanamazsa kart kendini **ESP32_Saat** erişim noktası olarak açar.

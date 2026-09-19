@@ -86,9 +86,7 @@ Ayarlar kartın kalıcı hafızasında (Preferences/NVS) saklanır; her açılı
 ## Proje Yapısı
 
 ```
-esp32 p/
-└── oled_panel/
-    └── oled_panel.ino   # tek dosya, tüm kod
+oled_panel.ino   # tek dosya, tüm kod
 ```
 
 ## Sorun Giderme
@@ -100,3 +98,6 @@ esp32 p/
 | Hava durumu `...` gösteriyor | İnternet bağlantısını kontrol et; şehir koordinatlarını doğrula |
 | Ekranda `--:--` | NTP beklemede; WiFi bağlandıktan sonra birkaç saniye bekleyin |
 | Menüden çıkılamıyor | 700ms'den uzun bas; LED yanıp sönene kadar tut |# esp32-saat-paneli
+
+
+Not: Bu sistem sadece İstanbul sınırları içerisinde denenmiştir. Farklı ülkelerde ve şehirlerde sorunlar olabilir.

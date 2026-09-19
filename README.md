@@ -4,7 +4,8 @@ ESP32 + SSD1306 OLED üzerinde çalışan çok fonksiyonlu saat paneli. NTP ile 
 
 A multifunctional clock panel running on ESP32 + SSD1306 OLED. Features a real-time NTP clock, live weather from the Open-Meteo API, a Pomodoro timer, a stopwatch and a WiFi scanner — all controlled with a single BOOT button.
 
-![Uploading IMG_20260919_195838.jpg…]()
+<img width="3072" height="4096" alt="IMG_20260919_195826" src="https://github.com/user-attachments/assets/96afec34-30db-480c-9978-0e77a50310f3" />
+
 <img width="3072" height="4096" alt="IMG_20260919_195826" src="https://github.com/user-attachments/assets/c7611b3d-06c4-4ff0-8d2e-6a4321d6d3b7" />
 
 
